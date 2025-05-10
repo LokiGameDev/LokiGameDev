@@ -1,4 +1,4 @@
-## Hi there! I'm **Lokeshwaran K**, a self-taught Unity game developer from India 🇮🇳.<br>
+## Hi there! I'm **Lokeshwaran K**.<br>
 <br>
 🎮 Unity developer.<br>
 🛠 Currently working on MultiGame and RogueBlade projects.<br>
