@@ -15,7 +15,7 @@
 ---
 
 # 🚀 Projects:
-- 🎮 **LockedIN** – A horror type maze runner game. [🔗](https://github.com/LokiGameDev/Locked-In)
+- 🎮 **LockedIn** – A horror type maze runner game. [🔗](https://github.com/LokiGameDev/Locked-In)
 
 ---
 
