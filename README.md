@@ -15,7 +15,7 @@
 ---
 
 # 🚀 Projects:
-- 🎮 **[TBA Game Title]** – Indie game currently in development with Unity.
+- 🎮 **LockedIN** – A horror type maze runner game. [🔗](https://github.com/LokiGameDev/Locked-In)
 
 ---
 
