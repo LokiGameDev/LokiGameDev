@@ -1,8 +1,8 @@
-## Hi there! I'm **Lokeshwaran K**.<br>
+## Hi! I'm **Lokeshwaran K**.<br>
 <br>
-🎮 Unity developer.<br>
+🎮 I am an Unity developer.<br>
 🛠 Currently working on MultiGame and RogueBlade projects.<br>
-🎓 Pursuing a Bachelor's degree in Electronics and Communication Engineering (ECE).<br>
+🎓 Pursuing a Bachelor's degree in Electronics and Communication Engineering.<br>
 📬 Open to internships and collaborations opportunities in game development.<br>
 
 ---
@@ -28,7 +28,7 @@
 
 ---
 
-# 📫 Let's Connect!
+# 📫 My links!
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white)](https://lokeshwaran-k.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokeshwarank)
