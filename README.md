@@ -13,7 +13,7 @@
 ---
 
 # 🚀 Projects:
--  **MultiGame** - A group of simple and small games put together. [🔗](https://github.com/LokiGameDev/MultiGame)
+-  **Tower defence** - A simulation game where you build and defend your tower from enemies during waves. [🔗](https://github.com/LokiGameDev/TowerDefence)
 -  **RogueBlade** - A top-down wave type game where you need to protectyour home from waves of enemies. [🔗](https://github.com/LokiGameDev/RogueBlade)
 -  **LockedIn** – A horror type maze runner game. [🔗](https://github.com/LokiGameDev/Locked-In)
 -  **Indie Runner** – A simple endless runner game. [🔗](https://github.com/LokiGameDev/Indie-Runner-Game)
