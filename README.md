@@ -23,8 +23,6 @@
 
 # 📈 My Stats:
 ![Leetcode](https://leetcard.jacoblin.cool/lokeshwarank007?theme=dark&font=Noto%20Sans%20Armenian)
-![Github](https://github-readme-stats.vercel.app/api?username=LokiGameDev&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LokiGameDev&theme=dark&show_icons=true&hide_border=true&layout=compact&hide=shaderlab,hlsl)
 
 ---
 
@@ -32,8 +30,6 @@
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white)](https://lokeshwaran-k.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokeshwarank)
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/lokeshwarank007)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://lokeshwarank007@gmail.com)
 
 ---
 
