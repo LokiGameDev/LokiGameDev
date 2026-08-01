@@ -18,11 +18,26 @@
 -  **LockedIn** – A horror type maze runner game. [🔗](https://github.com/LokiGameDev/Locked-In)
 -  **Indie Runner** – A simple endless runner game. [🔗](https://github.com/LokiGameDev/Indie-Runner-Game)
 
+---
+
+<div align="center">
+  <img width="100%" src="https://streak-stats.demolab.com/?user=lokigamedev&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
+  <br/>
+  <img width="49%" src="https://github-stats.vercel.app/api?username=lokigamedev&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats"/>
+</div>
 
 ---
 
-# 📈 My Stats:
-![Leetcode](https://leetcard.jacoblin.cool/lokeshwarank007?theme=dark&font=Noto%20Sans%20Armenian)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/LokiGameDev/LokiGameDev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/LokiGameDev/LokiGameDev/output/github-snake.svg" />
+    <img alt="Snake eating my contributions"
+    src="https://raw.githubusercontent.com/LokiGameDev/LokiGameDev/output/github-snake.svg" />
+  </picture>
+</div>
 
 ---
 
