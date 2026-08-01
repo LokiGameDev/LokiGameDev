@@ -41,10 +41,17 @@
 
 ---
 
-# 📫 My links!
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white)](https://lokeshwaran-k.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokeshwarank)
+<div align="center">
+  <a href="https://www.linkedin.com/in/lokeshwarank/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/l._loki_.l/">
+    <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badg&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram"/>
+  </a>
+  <a href="mailto:lokeshwarank007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email"/>
+  </a>
+</div>
 
 ---
 
