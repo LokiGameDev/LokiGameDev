@@ -1,3 +1,21 @@
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LokiGameDev/LokiGameDev/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LokiGameDev/LokiGameDev/main/light.svg">
+  <img alt="Lokeshwaran K" src="https://raw.githubusercontent.com/LokiGameDev/LokiGameDev/main/light.svg">
+</picture>
+
+<!-- <br/>
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) -->
+
+</div>
+
+
 ## Hi! I'm **Lokeshwaran K**.<br>
 <br>
 🎮 I am an Unity developer.<br>
@@ -40,8 +58,12 @@
 </div>
 
 ---
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lokeshwarank--7@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://lokeshwaran-k.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokeshwarank/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LokiGameDev)
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.linkedin.com/in/lokeshwarank/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -51,8 +73,7 @@
   <a href="mailto:lokeshwarank007@gmail.com">
     <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email"/>
   </a>
-</div>
-
+</div> -->
 ---
 
 *“Players don't just play games, they live in it.”*
