@@ -31,20 +31,115 @@
 
 ---
 
-# 🚀 Projects:
--  **Tower defence** - A simulation game where you build and defend your tower from enemies during waves. [🔗](https://github.com/LokiGameDev/TowerDefence)
--  **RogueBlade** - A top-down wave type game where you need to protectyour home from waves of enemies. [🔗](https://github.com/LokiGameDev/RogueBlade)
--  **LockedIn** – A horror type maze runner game. [🔗](https://github.com/LokiGameDev/Locked-In)
--  **Indie Runner** – A simple endless runner game. [🔗](https://github.com/LokiGameDev/Indie-Runner-Game)
+<h3 align="center">🚀 Featured Projects</h3>
+<table align="center">
+  <tr>
+    <td width="33%" valign="top">
+      <img src="https://placehold.co/600x340/1e1e1e/ffffff?text=Tower+Defence" width="100%">
+        🏰 <b>Tower Defence</b>
+        is a simulation game where you strategically build defenses and survive increasingly difficult enemy waves.
+      <p>
+        <br/>
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white">
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white">
+      </p>
+      <a href="https://github.com/LokiGameDev/TowerDefence">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Gameplay-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://placehold.co/600x340/1e1e1e/ffffff?text=RogueBlade" width="100%">
+        ⚔️<b>RogueBlade</b>
+        is a fast-paced top-down wave survival game where you defend your home against endless enemy attacks.
+      <p>
+        <br/>
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white">
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white">
+      </p>
+      <a href="https://github.com/LokiGameDev/RogueBlade">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Gameplay-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://placehold.co/600x340/1e1e1e/ffffff?text=Locked+In" width="100%">
+        👻<b>Locked In</b>
+        is a horror maze runner where players must escape dangerous environments while solving their way out.
+      <p>
+        <br/>
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white">
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white">
+      </p>
+      <a href="https://github.com/LokiGameDev/Locked-In">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Gameplay-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+      </a>
+    </td>
+    </tr>
+</table>
+
+---
+
+<h3 align="center">Other Projects</h3>
+<table align="center">
+    <tr>
+      <td width="33%" valign="top">
+          🏃<b>Indie Runner</b>
+          is a simple endless runner game featuring increasing speed, obstacles, and high-score gameplay.
+        <p>
+          <br/>
+          <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white">
+          <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white">
+        </p>
+        <a href="https://github.com/LokiGameDev/Indie-Runner-Game">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </td>
+      <td width="33%" valign="top">
+          🏃<b>Mask/Off</b>
+          is a 3D co-op platformer where players need to use mask abilities to clear levels.
+        <p>
+          <br/>
+          <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white">
+          <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white">
+        </p>
+        <a href="https://quantumcookie.itch.io/maskoff">
+          <img src="https://img.shields.io/badge/Play_on_itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
+        </a>
+      </td>
+      <td width="33%" valign="top">
+          🏃<b>Tank Battle</b>
+          is a 2D multiplayer game built with the help of a Udemy course by Nathan Farrer at GameDev.hq.
+        <p>
+          <br/>
+          <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white">
+          <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white">
+        </p>
+        <a href="https://github.com/LokiGameDev/Multiplayer-Tank-Battle">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </td>
+    </tr>
+</table>
+
 
 ---
 
 <div align="center">
   <img width="100%" src="https://streak-stats.demolab.com/?user=lokigamedev&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
   <br/>
-  <img width="49%" src="https://github-stats.vercel.app/api?username=lokigamedev&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats"/>
-   <img width="49%" src="https://github-stats.vercel.app/api/wakatime?username=lokigamdev)](https://wakatime.com/@alan)
+  <img height="175" align="center" src="https://github-stats-extended.vercel.app/api?username=LokiGameDev&custom_title=Github%20Stats&include_all_commits=true&theme=algolia" alt="stats"/>
+  <img height="175" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=LokiGameDev&hide=c%2B%2B&layout=donut&langs_count=3&theme=algolia"/>
 </div>
+
+
 
 ---
 
@@ -59,7 +154,6 @@
   </picture>
 </div>
 
----
 <p align="center">
   <a href="mailto:lokeshwarank--7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
@@ -88,4 +182,4 @@
 </div> -->
 ---
 
-*“Players don't just play games, they live in it.”*
+<p align="center"><i>“Players don't just play games, they live in it.”</i></p>
