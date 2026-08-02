@@ -35,7 +35,7 @@
 <table align="center">
   <tr>
     <td width="33%" valign="top">
-      <img src="https://placehold.co/600x340/1e1e1e/ffffff?text=Tower+Defence" width="100%">
+      <img src="/Assets/TD.jpg" width="100%" height="220">
         🏰 <b>Tower Defence</b>
         is a simulation game where you strategically build defenses and survive increasingly difficult enemy waves.
       <p>
@@ -51,7 +51,7 @@
       </a>
     </td>
     <td width="33%" valign="top">
-      <img src="https://placehold.co/600x340/1e1e1e/ffffff?text=RogueBlade" width="100%">
+      <img src="/Assets/RB.png" width="100%" height="220">
         ⚔️<b>RogueBlade</b>
         is a fast-paced top-down wave survival game where you defend your home against endless enemy attacks.
       <p>
@@ -67,7 +67,7 @@
       </a>
     </td>
     <td width="33%" valign="top">
-      <img src="https://placehold.co/600x340/1e1e1e/ffffff?text=Locked+In" width="100%">
+      <img src="/Assets/LI.jpg" width="100%" height="220">
         👻<b>Locked In</b>
         is a horror maze runner where players must escape dangerous environments while solving their way out.
       <p>
