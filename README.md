@@ -15,18 +15,28 @@
 
 ---
 
-<h3 align="center">🧰 Techstack</h3><br>
-<!--
-  ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-  ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-  ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) --!>
+<h2 align="center">🛠️ Tech Stack 🛠️</h2>
 
+### 🎮 Game Development
 <p align="center">
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=39848&format=png&color=ffffff"/>
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=65231&format=png&color=000000"/>
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=pNvuBsEVgVCG&format=png&color=000000"/>
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=55205&format=png&color=ffffff"/>
+  <img src="https://skillicons.dev/icons?i=unity,blender" />
+</p>
+
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs" />
+</p>
+
+### 🧰 Development Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+</p>
+
+### ⚙️ Game Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/URP-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netcode-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Input_System-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
 
 ---
@@ -37,7 +47,7 @@
     <td width="33%" valign="top">
       <img src="/Assets/TD.jpg" width="100%" height="220">
         🏰 <b>Tower Defence</b>
-        is a simulation game where you strategically build defenses and survive increasingly difficult enemy waves.
+        is a simulation game where you strategically build defences and survive increasingly difficult enemy waves.
       <p>
         <br/>
         <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white">
@@ -46,7 +56,7 @@
       <a href="https://github.com/LokiGameDev/TowerDefence">
         <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
       </a>
-      <a href="#">
+      <a href="https://youtu.be/8x9qAZr9wro">
         <img src="https://img.shields.io/badge/Gameplay-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
       </a>
     </td>
@@ -62,7 +72,7 @@
       <a href="https://github.com/LokiGameDev/RogueBlade">
         <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
       </a>
-      <a href="#">
+      <a href="https://youtu.be/0GCCgmywXb0">
         <img src="https://img.shields.io/badge/Gameplay-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
       </a>
     </td>
@@ -78,7 +88,7 @@
       <a href="https://github.com/LokiGameDev/Locked-In">
         <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
       </a>
-      <a href="#">
+      <a href="https://youtu.be/CXT8lM-hvvs">
         <img src="https://img.shields.io/badge/Gameplay-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
       </a>
     </td>
@@ -136,6 +146,7 @@
   <img width="100%" src="https://streak-stats.demolab.com/?user=lokigamedev&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
   <br/>
   <img height="175" align="center" src="https://github-stats-extended.vercel.app/api?username=LokiGameDev&custom_title=Github%20Stats&include_all_commits=true&theme=algolia" alt="stats"/>
+  <img width="75" align="center">
   <img height="175" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=LokiGameDev&hide=c%2B%2B&layout=donut&langs_count=3&theme=algolia"/>
 </div>
 
